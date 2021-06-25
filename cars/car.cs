@@ -19,11 +19,11 @@
       System.Console.WriteLine($"car model is : {model}");
       System.Console.WriteLine($"car color is : {color}");
     }
-    public static void Testing()
+    public void Testing()
     {
       System.Console.WriteLine("teesting......");
     }
-    public static void Starting()
+    public void Starting()
     {
       System.Console.WriteLine("starting.....");
     }
